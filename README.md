@@ -1,3 +1,3 @@
 # TMS_Sh3rbakovK
-For course of TMS
-Щербаков Константин
+Homeworks for the course of TeachMeSkills
+by Щербаков Константин
